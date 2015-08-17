@@ -1,0 +1,7 @@
+{
+    "repo": "cdo-eur",
+    "version": "0.1",
+    "depends": [
+        "ipython >=3.1"
+    ]
+}
